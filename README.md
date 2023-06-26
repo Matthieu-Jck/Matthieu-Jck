@@ -24,6 +24,7 @@ Currently working as a full-stack developer.
 
 <br>
 <h1> 💼 Technical Skills </h1>
+
 | Back-end  | Front-end  | Game Development | Design     | Machine Learning | Data Science | Project Management |
 |:---------:|:----------:|:----------------:|:----------:|:----------------:|:------------:|:------------------:|
 | Java      | Angular    | Unity            | Figma      | TensorFlow       | Python       | Jira               |
