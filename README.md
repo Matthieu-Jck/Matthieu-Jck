@@ -2,7 +2,7 @@
 
 <h1> 😎 About me </h1>
 
-👋 Hello, World! 👾 I'm Matthieu Jacques, Computer Engineer from Toulouse, France.
+👋 Hello, I'm Matthieu Jacques, Computer Engineer from Toulouse, France.
 
 I studied software development, data science, web development and networks at [INSA Toulouse](https://www.insa-toulouse.fr/fr/index.html).
 
