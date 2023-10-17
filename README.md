@@ -8,7 +8,7 @@ I studied software development, data science, web development and networks at [I
 
 <div>
   <p align="center">
-    <img src="./img/Banner_long.png" style="border-radius: 15px;" width="500" title="banner">
+    <img src="./img/Banner_long.png" style="border-radius: 15px;" width="600" title="banner">
   </p>
 </div>
 
