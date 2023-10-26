@@ -45,4 +45,4 @@ I'm always open to discussing Game Design, tech, AI, or collaboration opportunit
 
 Or see my portfolio here:
 
-- 🌎 Website - [Not public yet!]()
+- 🌎 Website - [Portfolio](https://matthieu-jck.github.io/Portfolio)
