@@ -6,7 +6,7 @@
 
 I studied software development, data science, web development and networks at [INSA Toulouse](https://www.insa-toulouse.fr/fr/index.html).
 
-If you're interested, you can see my portfolio here: 🌎 Porfolio - [Portfolio](https://matthieu-jck.github.io/Portfolio)
+If you're interested, you can see my portfolio here: 🌎 [Portfolio](https://matthieu-jck.github.io/Portfolio)
 
 <div>
   <p align="center">
