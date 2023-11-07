@@ -5,7 +5,9 @@
 👋 Hello, I'm Matthieu Jacques, Computer Engineer from Toulouse, France.
 
 I studied software development, data science, web development and networks at [INSA Toulouse](https://www.insa-toulouse.fr/fr/index.html).
+
 If you're interested, you can see my portfolio here: 🌎 Porfolio - [Portfolio](https://matthieu-jck.github.io/Portfolio)
+
 <div>
   <p align="center">
     <img src="./img/Banner_long.png" style="border-radius: 15px;" width="600" title="banner">
