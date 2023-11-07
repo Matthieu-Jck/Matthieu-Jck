@@ -5,7 +5,7 @@
 👋 Hello, I'm Matthieu Jacques, Computer Engineer from Toulouse, France.
 
 I studied software development, data science, web development and networks at [INSA Toulouse](https://www.insa-toulouse.fr/fr/index.html).
-
+If you're interested, you can see my portfolio here: 🌎 Porfolio - [Portfolio](https://matthieu-jck.github.io/Portfolio)
 <div>
   <p align="center">
     <img src="./img/Banner_long.png" style="border-radius: 15px;" width="600" title="banner">
@@ -20,7 +20,7 @@ I am a creator at heart, always on the lookout for exciting projects and innovat
 I find the most joy when I can blend my creative skills. I love meeting diverse people and exchanging ideas and opinions about anything. 
 
 
-Currently working as a full-stack developer.
+Currently working as a software/full-stack developer.
 
 <br>
 <h1> 💼 Technical Skills </h1>
@@ -42,7 +42,3 @@ I'm always open to discussing Game Design, tech, AI, or collaboration opportunit
 
 - 💼 LinkedIn - [Matthieu Jacques](www.linkedin.com/in/matthieu-jck)
 - 📧 Email - matthieu.jacques.2077@gmail.com
-
-Or see my portfolio here:
-
-- 🌎 Website - [Portfolio](https://matthieu-jck.github.io/Portfolio)
