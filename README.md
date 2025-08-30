@@ -4,7 +4,7 @@
 
 👋 Hello, I'm Matthieu Jacques, Computer Engineer from Toulouse, France.
 
-I studied software development, data science, web development and networks at [INSA Toulouse](https://www.insa-toulouse.fr/en).
+I studied software development, data science and web development at [INSA Toulouse](https://www.insa-toulouse.fr/en).
 
 If you're interested, you can see my portfolio here: 🌎 [Portfolio](https://matthieu-jck.github.io/Portfolio)
 
@@ -14,12 +14,9 @@ If you're interested, you can see my portfolio here: 🌎 [Portfolio](https://ma
   </p>
 </div>
 
-
-💻 **Software Development**, 🕹️ **Game Design**, 🎶 **Music** , 🤖 **Artificial Intelligence** and 🧪 **Physics**  enthusiast.
-
-I am a creator at heart, always on the lookout for exciting projects and innovative ideas.
+ **Software Development**, **Game Design**, **Politics** , **Artificial Intelligence** and **Physics**  enthusiast.
  
-I find the most joy when I can blend my creative skills. I love meeting diverse people and exchanging ideas and opinions about anything. 
+I find the most joy when I can blend my creative skills.
 
 
 Currently working as a software/full-stack developer.
