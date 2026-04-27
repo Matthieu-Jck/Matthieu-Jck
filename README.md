@@ -40,4 +40,4 @@ Currently working as a software/full-stack developer.
 I'm always open to discussing Game Design, tech, AI, or collaboration opportunities. Feel free to reach out to me on:
 
 - 💼 LinkedIn - [Matthieu Jacques](www.linkedin.com/in/matthieu-jck)
-- 📧 Email - matthieu.jacques.2077@gmail.com
+- 📧 Email - mjacques.dev@gmail.com
